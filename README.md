@@ -2,8 +2,8 @@
 
 A fun and educational Generative AI chatbot that explains complex topics at three levels of understanding: Beginner, Intermediate, and Advanced. Built using Together.ai’s Mistral-7B model and Streamlit, this app is perfect for students, learners, and curious minds!
 
-![Screenshot](./src/begin.jpg)
-![Screenshot](./src/inter.jpg)
+![Screenshot](.\src\begin.jpg)
+![Screenshot](.\src\inter.jpg)
 
 ---
 
