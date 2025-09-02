@@ -52,19 +52,6 @@ TOGETHER_API_KEY = "your-together-api-key-here"
 streamlit run app.py
 ```
 
----
-
-## 🌐 Deployment (Streamlit Cloud)
-
-1. Push the project to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud) and sign in
-3. Click **"New app"** → select your GitHub repo
-4. Set the file path to `app.py`
-5. In **Advanced Settings**, add your secret key:
-   - `TOGETHER_API_KEY`: (paste your actual Together.ai key)
-
----
-
 ## 📁 Project Structure
 
 ```
