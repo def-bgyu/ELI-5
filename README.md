@@ -99,4 +99,4 @@ Pull requests welcome! For major changes, please open an issue first.
 
 ## 👩‍💻 Built By
 
-Nidhi Sankhe – [linkedin.com/in/nidhisankhe](https://linkedin.com/in/nidhisankhe)
+Nidhi Sankhe – [linkedin.com/in/nidhisankhe](https://www.linkedin.com/in/nidhi-sankhe-39850320b/)
